@@ -1,1 +1,11 @@
-1. proptect api key in ai service
+1. remove secrets form code(jwt)
+
+2. assign roles to users(guest/user)
+
+3. Grafana
+
+4. add joi and error handling
+
+5. check how to work with a single db for all the services
+
+6. implement search professors
